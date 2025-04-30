@@ -107,6 +107,27 @@ body {
   letter-spacing: 1px;
 }
 
+/* Interactive GIF styling */
+@keyframes pulse-border {
+  0% { border-color: #00ffff; }
+  50% { border-color: #ff00ff; }
+  100% { border-color: #00ffff; }
+}
+
+.gif-container:hover .pixelated-img {
+  animation: pulse-border 1.5s infinite;
+}
+
+.gif-container:hover .click-me-text {
+  animation: blink 0.5s step-end infinite;
+}
+
+.gif-container {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
 /* Starry Background */
 .starry-bg {
   background-image: url('/public/star.jpg');

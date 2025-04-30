@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-# 1) MUST ALSO RUN: npm install react-router-dom
+# 1) MUST ALSO RUN: -> npm install <- (and if not working: npm install react-router-dom)
 # 2)THEN MAYBE: npm start
 
 #To ensure that the app works right

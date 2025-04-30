@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f71923b.css",
+    "main.js": "/static/js/main.d9217e6d.js",
+    "static/js/453.46bac5db.chunk.js": "/static/js/453.46bac5db.chunk.js",
+    "static/media/balloons.gif": "/static/media/balloons.053f419f9375c1f6ac45.gif",
+    "static/media/gallery.gif": "/static/media/gallery.558116565cfb2cb6bb08.gif",
+    "static/media/internet.gif": "/static/media/internet.5579b959b7fa269ebfc1.gif",
+    "static/media/about.gif": "/static/media/about.f65a77dfb822dd9158dd.gif",
+    "static/media/construction.gif": "/static/media/construction.c34e9c5d33ef83cd4a29.gif",
+    "static/media/blog.gif": "/static/media/blog.990ffa5a69d0feef0961.gif",
+    "static/media/face.gif": "/static/media/face.906b61cf956ccc9cf1a9.gif",
+    "static/media/Wikipedia Logo.jpg": "/static/media/Wikipedia Logo.967d7304808f34e09de5.jpg",
+    "static/media/star.jpg": "/static/media/star.4cba3cd43abfc75ff1b0.jpg",
+    "static/media/welcome.gif": "/static/media/welcome.efb137c213bb9e75ef7b.gif",
+    "static/media/computer.gif": "/static/media/computer.577393f5adf23d785182.gif",
+    "static/media/email.gif": "/static/media/email.c47565678b29baf503c9.gif",
+    "index.html": "/index.html",
+    "main.0f71923b.css.map": "/static/css/main.0f71923b.css.map",
+    "main.d9217e6d.js.map": "/static/js/main.d9217e6d.js.map",
+    "453.46bac5db.chunk.js.map": "/static/js/453.46bac5db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f71923b.css",
+    "static/js/main.d9217e6d.js"
+  ]
+}
